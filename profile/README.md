@@ -1,6 +1,6 @@
 # What is nix-tutorials?
 
-I, Illustrated_Man-code, created this Github organization as a way to create and distribute all the material I wish I had when learning all things [nix](https://nixos.org/). I am in no way officially affiliated with the NixOS organization, but I am not opposed to it! If anyone who is affiliated wants to take over oversight of this organization, I am all for it.
+I, [IllustratedMan-code](https://github.com/IllustratedMan-code), created this Github organization as a way to create and distribute all the material I wish I had when learning all things [nix](https://nixos.org/). I am in no way officially affiliated with the NixOS organization, but I am not opposed to it! If anyone who is affiliated wants to take over oversight of this organization, I am all for it.
 
 # Why didn't I just contribute to the wiki?
 
